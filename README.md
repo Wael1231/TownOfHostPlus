@@ -112,6 +112,7 @@ Note that if a player other than the host plays with this mod installed, the fol
 - Custom End Screens
 - Additional settings
 - Better UI
+- MainMenu Change (Note yet).
 - etc.
 
 ## Features
@@ -1549,6 +1550,7 @@ The RandomMapsMode changes the maps at random.<br>
 | Include MIRA HQ     |
 | Include Polus       |
 | Include The Airship |
+| Include Submerged   |
 
 ### SyncButtonMode
 
@@ -1601,6 +1603,7 @@ Roles from:
 7. [Town-Of-Us-R](https://github.com/eDonnes124/Town-Of-Us-R)<br>
 8. Mek - Role Ideas (Bewilder, Bastion, Demolitionist)<br>
 9. Original [Town Of Host](https://github.com/tukasa0001/TownOfHost) (Mod itself plus pull requests for roles such as the guesser roles)
+10.[TOHE](https://github.com/KARPED1EM/TownOfHostEdited)<br> (More roles idea not yet add )
 
 ## Developers
 - Loonie#0003 (Discord)
