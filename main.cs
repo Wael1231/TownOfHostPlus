@@ -18,7 +18,7 @@ using AmongUs.GameOptions;
 [assembly: AssemblyInformationalVersionAttribute(TownOfHost.Main.PluginVersion)]
 namespace TownOfHost
 {
-    [BepInPlugin(PluginGuid, "Town Of Host: The Other Roles", PluginVersion)]
+    [BepInPlugin(PluginGuid, "Town Of HostPlus", PluginVersion)]
     [BepInProcess("Among Us.exe")]
     public class Main : BasePlugin
     {
